@@ -1,0 +1,30 @@
+test2.py
+test.py
+*.log
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS files
+.DS_Store
+
+# Python virtual environment
+venv/
+.env/
+
+# IDE files (VSCode, PyCharm)
+.idea/
+.vscode/
+
+# Test/output files (if not needed)
+*.xlsx
+*.png
+*.xlxs
+*.csv
+
+.env
+all_data
+performance
